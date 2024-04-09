@@ -33,7 +33,7 @@ let track_list = [
     {
         name: "Evil Like Me",
         artist: "Descendants 1",
-        image: "http://cdn.shopify.com/s/files/1/3099/4792/products/Evil_Like_Me_1200x1200.jpeg?v=1571724961",
+        image: "https://i1.sndcdn.com/artworks-000141749073-z49txh-t500x500.jpg",
         path: "evilLike.mp3",
     },
     {
@@ -47,6 +47,12 @@ let track_list = [
         artist: "Descendants 1",
         image: "https://upload.wikimedia.org/wikipedia/en/d/d1/Dove_Cameron_-_If_Only.jpg",
         path: "only.mp3",
+    },
+    {
+        name: "Be Our Guest",
+        artist: "Descendants 1",
+        image: "https://c.saavncdn.com/429/Descendants-Original-TV-Movie-Soundtrack-English-2015-500x500.jpg",
+        path: "guest.mp3",
     },
     {
         name: "Set It Off",
